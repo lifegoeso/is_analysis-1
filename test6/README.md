@@ -5,9 +5,9 @@
 
 ### 成都大学信息科学与工程学院
 
-|学号|班级|姓名|照片|
-|:-------:|:-------------: | :----------:|:---:|
-|12345678|软件(本)15-4|赵卫东|![flow1](../myself.jpg)|
+|学号|班级|姓名|
+|:-------:|:-------------: |:---:|
+|201710414304|软件(本)15-4|何有维|
 
 ## 1. 概述
 - 基于GitHub的实验管理平台的作用是在线管理实验成绩的Web应用系统。学生和老师的实验内容均存放在GitHUB
@@ -21,7 +21,7 @@
 ## 2. 系统总体结构
 ![](系统总体结构.png)
 
-界面设计参见：https://zwdcdu.github.io/is_analysis/test6/ui/index.html
+界面设计参见：https://github.com/lifegoeso/is_analysis_pages/blob/master/ui/index.html
     
 ## 3. 用例图设计 [源码](src/UseCase.puml)
 ![](UseCase.png)
